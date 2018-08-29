@@ -1,0 +1,18 @@
+body {
+    background-image: url(../vendor/css/Images/DSC_0077-10per.jpg);
+}
+
+.breadcrumb {
+    background-color: rgb(211, 221, 230);
+}
+
+h3 {
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.btn {
+    background-color:  rgb(211, 221, 230);
+    color: black;
+    border: none;
+}
